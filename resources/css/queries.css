@@ -9,7 +9,7 @@
 	/* CSS specific to iOS devices */
 	header,
 	.section-testimonials {
-		background-attachment: initial;
+		background-attachment: scroll;
 	}
 }
 
